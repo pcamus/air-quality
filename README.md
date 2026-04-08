@@ -6,7 +6,7 @@ It is inspired by the open source project [Aura](https://www.hackster.io/21cncst
 
 It uses a Nextion [NX4880E043-011C](https://nextion.tech/datasheets/nx4880e043-011c/) display and a [sen66](https://sensirion.com/products/catalog/SEN66) sensor.
 
-For the moment (which I hope won't last for years) this repository is in draft form and the sen66 driver is a hacked version of [Adafruit library](https://github.com/adafruit/Adafruit_CircuitPython_SEN6x).
+For the moment (which I hope won't last for years) this repository is in draft form and the sen66 driver is a hacked version of [Adafruit library](https://github.com/adafruit/Adafruit_CircuitPython_SEN6x) (to be used in MicroPython).
 
 Here's a first look at the display with some data...
 
